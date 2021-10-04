@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1007557303826",
+    "firebase_url": "https://collegegully.firebaseio.com",
+    "project_id": "collegegully",
+    "storage_bucket": "collegegully.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007557303826:android:e6357849b264da3c0b02cb",
+        "android_client_info": {
+          "package_name": "com.lunatic.first"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007557303826-b8jqj9snpo4f6hlblgmjr0ftg5oe638c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lunatic.first",
+            "certificate_hash": "1d088f8930798716adb002a2808901af7e3e2ca3"
+          }
+        },
+        {
+          "client_id": "1007557303826-9thbcbk5l0c8eamc9sa9g5s26d813vam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBobu4DZbJUPn7QNQxBB6nHdjSbTq6JDwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007557303826-9thbcbk5l0c8eamc9sa9g5s26d813vam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
